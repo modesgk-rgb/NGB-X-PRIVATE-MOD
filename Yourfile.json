@@ -16,5 +16,10 @@
         "key": "ngbxmod",
         "expirydate": "03-11-2025",
         "Allowoffline": false
-        }
+        },
+    {
+        "device_id": "b70e40483b69bb68",
+        "key": "ngbxmod",
+        "expirydate": "5-11-2025",
+        "Allowoffline": false
 ]
